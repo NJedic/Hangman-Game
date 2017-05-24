@@ -1,0 +1,56 @@
+/*Body*/
+body {
+	padding: 0;
+	margin-top: 
+	background-color: #5b0707;
+	background-image: url("https://img.clipartfest.com/46a6df1c585ee40c75cd9c305f90c6c6_-william-wiegand-scroll-of-scroll-clipart-png_770-420.png");
+	align-content: center;
+	background-repeat: no-repeat;
+}
+
+/*Header*/
+.page-header{
+	border-bottom: none;
+	float:none;
+    margin:auto;
+    display: block;
+    text-align: center;
+}
+
+h1{
+	font-family: 'Metamorphous', cursive;
+	color: #c68827;
+	font-weight: bold;
+	font-size: 60px;
+	text-shadow: 2px 2px #ffffff;
+	margin: 0;
+}
+
+/*main div*/
+#schoolList{
+	font-size: 50px;
+	color: #ffffff;
+	font-family: 'Tangerine', cursive;
+	text-align: left;
+}
+
+#game{
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 32pt;
+	color: #ffffff;
+}
+
+/*pop-out directions*/
+#helpButton{
+	background-image: none;
+	background-color: #c68827;
+	border-color: #ffffff;
+	font-family: 'Metamorphous', cursive; 
+}
+
+#directions{
+	background-color: #c68827;
+	font-family: 'Metamorphous', cursive;
+	font-color: #ffffff;
+	font-size: 15.5px;
+}
