@@ -36,14 +36,14 @@ h1{
 	text-align: center;
 }
 
-#answers{
-	font-size: 20px;
+#answers, #score, #lettersguessed{
+	font-size: 25px;
 	color: #5b0707;
 	font-family: 'Tangerine', cursive;
 	text-align: center;
 }
 
-#game{
+#game {
 	font-family: 'Reenie Beanie', cursive;
 	font-size: 32pt;
 	color: black;
