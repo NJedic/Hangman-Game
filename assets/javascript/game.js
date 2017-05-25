@@ -40,7 +40,11 @@ function renderWord(){
 	
 	// Variable chosenWord equals the word that's chosen from the previous var
 	var chosenWord = wordChoices[number];
+
+	//Variable that splits the chosen word into individual character strings
 	var chosenCharacters = chosenWord.split("");
+
+	//Pushing the character strings into the empty array
 	underscoreArray.push(chosenCharacters);
 			console.log(chosenCharacters);
 	
